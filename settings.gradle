@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Principal"
 include ':app'
+include ':modules:library1'
+include ':modules:library2'
